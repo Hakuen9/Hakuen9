@@ -13,7 +13,7 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 | --- | --- | --- | --- | --- |
 | Dutch | Nederlands | C2 | Native proficiency | N.A. |
 | English | English | C1 | Full professional working proficiency | N.A. |
-| Japanese |　日本語 | A2/B1 | Limited working proficiency | Yes |
+| Japanese |日本語 | A2/B1 | Limited working proficiency | Yes |
 | Mandarin Chinese (Simplified) | 简体中文 | A2 | Elementary proficiency | No |
 | Mandarin Chinese (Traditional) | 正體中文 | A0 | (Only traditional characters) | No |
 
