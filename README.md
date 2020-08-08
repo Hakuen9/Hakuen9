@@ -1,5 +1,5 @@
 # Hey there!
-I am a third-year university student, studying IT and majoring in **Software Engineering**. My 3 main interests are **Computer Science**, **Mathematics** and **Languages**. Other interesting topics I will dabble in/ currently dabble in are: **Linear Algebra**, **Multivariate Calculus**, **Cyber Security**, **Natural Language Processing**, **Artificial Intelligence** and **Chaos Theory**. 
+I am a third-year university student, studying IT and majoring in **Software Engineering**. My 3 main interests are **Computer Science**, **Mathematics** and **Languages**. Other interesting topics I will dabble in/ currently dabble in are: **Linear Algebra**, **Multivariate Calculus**, **Cyber Security**, **Natural Language Processing**, **Artificial Intelligence**, **(Computational) Linguistics**, **(Computational) Neuroscience** and **Chaos Theory**. 
 
 
 ## Projects:
