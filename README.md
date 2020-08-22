@@ -9,19 +9,18 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 | **Online Courses** | [![Mathematics-for-machine-learning: Linear Algebra](https://img.shields.io/static/v1?label=&message=Linear-Algebra&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Hakuen9/Linear-Algebra)
 
 ## Current courses/ self-study items:
--Linear Algebra
--(Multivariate) Calculus
--Cyber Security
+-Linear Algebra  
+-(Multivariate) Calculus  
+-Cyber Security  
 
 ## Programming Languages:
-Python: Experienced
-Java: Experienced
-SQL: Experienced
-JavaScript/ TypeScript: Adept
-HTML/ CSS: Adept
-C: Novice
-PHP: Novice
-
+Python: Experienced  
+Java: Experienced  
+SQL: Experienced  
+JavaScript/ TypeScript: Adept  
+HTML/ CSS: Adept  
+C: Novice  
+PHP: Novice  
 
 ## (Non-Programming) Languages:
 |Language\* (English) | Language name in target language\* | CEFR level | ILR scale | Primary focus? |
