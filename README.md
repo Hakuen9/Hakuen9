@@ -11,7 +11,7 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 ## Current courses/ self-study items:
 -Linear Algebra  
 -(Multivariate) Calculus  
--Cyber Security
+-Cyber Security  
 -A complete Computer Science curriculum online
 
 ## Programming Languages:
