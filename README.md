@@ -12,7 +12,7 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 -Linear Algebra  
 -(Multivariate) Calculus  
 -Cyber Security  
--A complete Computer Science curriculum online
+-A complete Computer Science curriculum using online courses.
 
 ## Programming Languages:
 Python: Experienced  
