@@ -2,6 +2,7 @@
 I am a third-year university student, studying IT and majoring in **Software Engineering**. My 3 main interests are **Computer Science**, **Mathematics** and **Languages**. Other interesting topics I will dabble in are: **Linear Algebra**, **Multivariate Calculus**, **Cyber Security**, **Natural Language Processing**, **Artificial Intelligence**, **(Computational) Linguistics**, **(Computational) Neuroscience** and **Chaos Theory**. 
 
 <br />
+
 ## Projects:
 |  |  |
 | --- | --- |
@@ -9,6 +10,7 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 | **Online Courses** | [![Mathematics-for-machine-learning: Linear Algebra](https://img.shields.io/static/v1?label=&message=Linear-Algebra&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/Hakuen9/Linear-Algebra)
 
 <br />
+
 ## Current courses/ self-study items:
 - Linear Algebra (self-study)
 - (Multivariate) Calculus (self-study)
@@ -16,6 +18,7 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 - A complete Computer Science education using online courses. (OSSU curriculum)
 
 <br />
+
 ## Programming Languages:
 - Python: Experienced  
 - Java: Experienced  
@@ -26,6 +29,7 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 - PHP: Novice  
 
 <br />
+
 ## (Non-Programming) Languages:
 |Language\* (English) | Language name in target language\* | CEFR level | ILR scale | Primary focus? |
 | --- | --- | --- | --- | --- |
