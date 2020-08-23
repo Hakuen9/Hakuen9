@@ -15,13 +15,13 @@ I am a third-year university student, studying IT and majoring in **Software Eng
 -A complete Computer Science curriculum using online courses.
 
 ## Programming Languages:
-Python: Experienced  
-Java: Experienced  
-SQL: Experienced  
-JavaScript/ TypeScript: Adept  
-HTML/ CSS: Adept  
-C: Novice  
-PHP: Novice  
+- Python: Experienced  
+- Java: Experienced  
+- SQL: Experienced  
+- JavaScript/ TypeScript: Adept  
+- HTML/ CSS: Adept  
+- C: Novice  
+- PHP: Novice  
 
 ## (Non-Programming) Languages:
 |Language\* (English) | Language name in target language\* | CEFR level | ILR scale | Primary focus? |
